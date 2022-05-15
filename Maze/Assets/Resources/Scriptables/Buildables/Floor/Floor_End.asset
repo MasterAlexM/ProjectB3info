@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da7aded91919eec41b09d305a5a140e4, type: 3}
+  m_Name: Floor_End
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 7f43db3f40561c94fbeb13d7dca532b6, type: 2}
+  uiCategory: {fileID: 11400000, guid: 74b8e463133f69d4387a6f7638f221f9, type: 2}
+  tileBase: {fileID: 11400000, guid: 3c3fc27f7898d0d448b710ed42b2df7c, type: 2}
+  placeType: 1
+  usePlacementRestrictions: 1
+  placementRestrictions:
+  - {fileID: 11400000, guid: 7f43db3f40561c94fbeb13d7dca532b6, type: 2}
